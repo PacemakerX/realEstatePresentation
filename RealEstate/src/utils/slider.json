@@ -1,38 +1,39 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Octal Enclave",
+    "price": "47L",
+    "detail": "Garden City Street, Cakung. Pulo Gadung, New Delhi, India",
     "image": "./r1.png"
   },
   {
     "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "price": "66L",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Indira Nagar, Banglore, India",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "price": "35L",
+    "detail": " Indah Residence Block A7, Lingkar Street, Lucknow, India",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "name": "Octal Enclave",
+    "price": "47L",
+    "detail": "Garden City Street, Cakung. Pulo Gadung, New Delhi, India",
     "image": "./r1.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Garden City",
+    "price": "66L",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Indira Nagar, Banglore, India",
     "image": "./r2.png"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "name": "Indah Residence",
+    "price": "35L",
+    "detail": " Indah Residence Block A7, Lingkar Street, Lucknow, India",
     "image": "./r3.png"
   }
+  
 ]
