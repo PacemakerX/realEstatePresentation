@@ -1,38 +1,50 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Octal Enclave",
+    "price": "47L",
+    "detail": "Jakarta Garden City Street, Cannaught Place , New Delhi , India",
+    "image": "./r1.svg"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Garden City",
+    "price": "66L",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Bangluru, India",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "price": "35L",
+    "detail": "Indah Residence Block A7, Lingkar Street, Ciracas,Lucknow,India ",
     "image": "./r3.png"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Aliva Garden",
+    "price": "47L",
+    "detail": "City Street, Cakung. Near Indira Gandhi Statute , Pune, India",
+    "image": "./r4.png"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "name": "Octal Enclave",
+    "price": "47L",
+    "detail": "Jakarta Garden City Street, Cannaught Place , New Delhi , India",
+    "image": "./r1.svg"
+  },
+  {
+    "name": "Garden City",
+    "price": "66L",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Bangluru, India",
     "image": "./r2.png"
   },
   {
     "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
+    "price": "35L",
+    "detail": "Indah Residence Block A7, Lingkar Street, Ciracas,Lucknow,India ",
     "image": "./r3.png"
+  },
+  {
+    "name": "Aliva Garden",
+    "price": "47L",
+    "detail": "City Street, Cakung. Near Indira Gandhi Statute , Pune, India",
+    "image": "./r4.png"
   }
 ]
